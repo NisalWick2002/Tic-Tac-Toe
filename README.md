@@ -5,7 +5,6 @@ This project offers a versatile Tic-Tac-Toe experience. Enjoy classic terminal g
 
 - [Overview](https://github.com/NisalWick2002/Tic-Tac-Toe?tab=readme-ov-file#overview-)
 - [Features](https://github.com/NisalWick2002/Tic-Tac-Toe?tab=readme-ov-file#features-%EF%B8%8F)
-- [Steps](https://github.com/NisalWick2002/Tic-Tac-Toe?tab=readme-ov-file#steps-)
 
 
 ## Overview 📋
